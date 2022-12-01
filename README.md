@@ -8,3 +8,4 @@ Some more text
 fix2 changes
 text fix3
 git
+Another text
